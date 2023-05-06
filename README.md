@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Manjunath B H</h1>
 <h2 align="center">A passionate Software Developer from India</h2>
-<h3 align="left">I'm a prefinal year student pursuing Bachelors in Computer Sciene Domain from Visvesvaraya Technological University. I'm passionate learner who's willing to learn and work across new technologies. I love to explore new technologies and try to solve real-life problems. I'm currently into Software Development and working on new technologies</h3>
+<h3 align="left">       I'm a prefinal year student pursuing Bachelors in Computer Sciene Domain from Visvesvaraya Technological University. I'm passionate learner who's willing to learn and work across new technologies. I love to explore new technologies and try to solve real-life problems. I'm currently into Software Development and working on new technologies</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bh-manjunath&label=Profile%20views&color=0e75b6&style=flat" alt="bh-manjunath" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **DSA , JAVA**
+- 💬 Ask me about **?**
 
 - 📫 How to reach me **manjunathbh243@gmail.com**
 
