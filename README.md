@@ -1,4 +1,4 @@
-<a href="https://ibb.co/bBCQsqs"><img width = "1500" src="https://i.ibb.co/mq2b919/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" alt="Black-and-White-Gradient-Personal-Linked-In-Banner-1" border="0"></a>
+<a href="https://ibb.co/MPGfqYx"><img width = "1500" src="https://i.ibb.co/tYxzy7T/Black-and-White-Gradient-Personal-Linked-In-Banner-2.png" alt="Black-and-White-Gradient-Personal-Linked-In-Banner-2" border="0"></a>
 
 
 <h1 align="center">Hi 👋, I'm Manjunath B H</h1>
