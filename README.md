@@ -1,7 +1,7 @@
 <a href="https://ibb.co/MPGfqYx"><img width = "1500" src="https://i.ibb.co/tYxzy7T/Black-and-White-Gradient-Personal-Linked-In-Banner-2.png" alt="Black-and-White-Gradient-Personal-Linked-In-Banner-2" border="0"></a>
 
 
-<h1 align="center">Hi 👋, I'm Manjunath B H</h1>
+/*<h1 align="center">Hi 👋, I'm Manjunath B H</h1>*/
 <h2 align="center"> Good to have you here :) </h2>
 <h3 align="left">       Completed Bachelors Degree in Computer Science Engineering from Visvesvaraya Technological University. I'm passionate learner who is willing to learn and work across new technologies. I love to explore new technologies and try to solve real-life problems. I'm currently into Software Development and working on new technologies</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU">
